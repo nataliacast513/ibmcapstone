@@ -1,3 +1,3 @@
 # ibmcapstone
 
-##Ibm capstone repo
+## IBM capstone repo
